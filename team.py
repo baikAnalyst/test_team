@@ -5,8 +5,11 @@ def f_avg(data):
 
 #합계를 구하는 함수
 def f_sum(data):
-    #코드를 입력해주세요
-    return 1
+  sum(data)
+  return 1
+# print(f_sum([1,2,3,4]))
+
+
 
 #오름차순으로 정렬해주는 함수
 def f_sort(data):
