@@ -5,9 +5,8 @@ def f_avg(data):
 
 #합계를 구하는 함수
 def f_sum(data):
-  sum(data)
-  return 1
-# print(f_sum([1,2,3,4]))
+  result = sum(data)
+  return result
 
 
 
