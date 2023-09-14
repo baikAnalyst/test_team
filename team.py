@@ -8,8 +8,6 @@ def f_sum(data):
   result = sum(data)
   return result
 
-
-
 #오름차순으로 정렬해주는 함수
 def f_sort(list):
     list.sort()
