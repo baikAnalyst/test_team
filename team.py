@@ -15,5 +15,5 @@ def f_sort(data):
 
 #내림차순으로 정렬해주는 함수
 def f_desc(data):
-    #코드를 입력해주세요
+    data.sort(reverse=True)
     return 1
