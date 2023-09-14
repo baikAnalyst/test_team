@@ -1,7 +1,7 @@
 # 평균을 구하는 함수
 def f_avg(data):
-    result = sum(data)/len(data)
-    return result
+    list = sum(data)/len(data)
+    return list
 
 #합계를 구하는 함수
 def f_sum(data):
