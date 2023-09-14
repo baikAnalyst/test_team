@@ -17,5 +17,5 @@ def f_sort(data):
 
 #내림차순으로 정렬해주는 함수
 def f_desc(data):
-    data.sort(reverse=True)
+    result = data.sort(reverse=True)
     return 1
