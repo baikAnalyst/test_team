@@ -1,21 +1,21 @@
 # 평균을 구하는 함수
 def f_avg(data):
-    # 코드를 입력해주세요
-    return 1
+    list = sum(data)/len(data)
+    return list
 
 #합계를 구하는 함수
 def f_sum(data):
   list = sum(data)
   return list
 
-
-
 #오름차순으로 정렬해주는 함수
-def f_sort(data):
-    #코드를 입력해주세요
-    return 1
+def f_sort(list):
+    list.sort()
+    return list
 
 #내림차순으로 정렬해주는 함수
 def f_desc(data):
-    data.sort(reverse=True)
+    list = data.sort(reverse=True)
     return 1
+
+
