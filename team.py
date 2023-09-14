@@ -16,4 +16,4 @@ def f_sort(data):
 #내림차순으로 정렬해주는 함수
 def f_desc(list):
     #코드를 입력해주세요
-    return
+    return 1
