@@ -1,5 +1,5 @@
 # 평균을 구하는 함수
-def f_kavg(list):
+def f_avg(list):
     # 코드를 입력해주세요
     return
 
